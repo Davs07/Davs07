@@ -24,8 +24,8 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
 - LinkedIn: [Davy Rodríguez](https://www.linkedin.com/in/davy-rodr%C3%ADguez/)
-- Correo Electrónico: davymail@example.com
-- Sitio Web: [www.davyrodriguez.com](https://www.davyrodriguez.com)
+- Correo Electrónico: davyrodriguez107@gmail.com
+- Sitio Web: [www.davyrodriguez.com](https://www.davyrodriguez.com](https://davyrodriguez.vercel.app/)
 
 ¡No dudes en enviarme un mensaje si tienes alguna pregunta o quieres discutir un proyecto! 😊
 
