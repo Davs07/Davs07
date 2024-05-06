@@ -1,6 +1,6 @@
 ---
 
-# ¡Hola! 👋 Soy Davy Rodríguez
+# ¡Hola! Soy Davy Rodríguez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador fullstack con un enfoque en la creación de experiencias digitales cautivadoras y funcionales. Me encanta trabajar en proyectos desafiantes que me permitan explorar nuevas tecnologías y mejorar mis habilidades constantemente.
 
