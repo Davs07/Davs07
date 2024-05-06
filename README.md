@@ -11,7 +11,6 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 ## Mis Valores
 
 - **Calidad y Eficiencia**: Siempre busco alcanzar los más altos estándares de calidad en mi trabajo, al mismo tiempo que priorizo la eficiencia y la entrega oportuna de los proyectos.
-- **Colaboración y Comunicación**: Creo en el poder de la colaboración y la comunicación efectiva en equipo. Trabajo de cerca con diseñadores, otros desarrolladores y stakeholders para garantizar una ejecución fluida en cada etapa del ciclo de desarrollo.
 - **Aprendizaje Continuo**: Estoy comprometido con el aprendizaje continuo y la adaptabilidad. Me mantengo actualizado con las últimas tecnologías y tendencias del sector para enfrentar cualquier proyecto con confianza y creatividad.
 
 ## Educación y Experiencia
