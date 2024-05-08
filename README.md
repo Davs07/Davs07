@@ -16,7 +16,7 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 ## Educación y Experiencia
 
 - Actualmente estoy estudiando Ingeniería de Sistemas en la Universidad Nacional de Cajamarca.
-- He trabajado en varios proyectos personales y colaborativos, donde he adquirido experiencia práctica en el desarrollo de aplicaciones web y móviles.
+- He trabajado en varios proyectos personales, donde he adquirido experiencia práctica en el desarrollo de aplicaciones web.
 
 ## Contacto
 
