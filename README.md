@@ -26,6 +26,4 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 - Correo Electrónico: davyrodriguez107@gmail.com
 - Sitio Web: [Davy](https://davyrodriguez.vercel.app/)
 
-¡No dudes en enviarme un mensaje si tienes alguna pregunta o quieres discutir un proyecto! 😊
-
 ---
