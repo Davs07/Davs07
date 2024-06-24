@@ -81,8 +81,8 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 # 📊 GitHub Stats:
 <div align="center" display="flex">
   
-![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api?username=davs07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davs07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
