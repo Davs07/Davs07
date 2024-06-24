@@ -95,7 +95,9 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 ### ✍️ Random Dev Quote
 
 <div align="center">
+  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 </div>
 
 
