@@ -92,6 +92,14 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Davs07&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 🎶 Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31vo7objvdjd3hyruykh2azpdzzy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vo7objvdjd3hyruykh2azpdzzy&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ### ✍️ Random Dev Quote
 
 <div align="center">
