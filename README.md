@@ -81,9 +81,9 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 # 📊 GitHub Stats:
 <div align="center" display="flex">
   
-![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false)<BR/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
   
