@@ -107,7 +107,7 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
   
 </div>
 
