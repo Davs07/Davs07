@@ -93,7 +93,7 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
   
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Davs07&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Davs07&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🎶 Spotify
 
