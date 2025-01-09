@@ -13,6 +13,10 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davs_cs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-rodr%C3%ADguez-b80608268) 
 
 # 💻 Tech Stack:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -85,8 +89,10 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 # 📊 GitHub Stats:
 <div align="center" display="flex">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false)
 
 </div>
