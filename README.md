@@ -88,14 +88,13 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 
 # 📊 GitHub Stats:
 <div align="center" display="flex">
-  
 ![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-
-<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false)
-
 </div>
+
+<div align="center" display="flex">
+![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false)
+</div>
+
   
 
 ## 🏆 GitHub Trophies
