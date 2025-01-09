@@ -87,13 +87,28 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 -->
 
 # 📊 GitHub Stats:
-<div align="center" display="flex">
-![](https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+<!--
+<div align="center" style="display: flex;">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
 </div>
+-->
+<div align="center" style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats"/>
+  <br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Davs07)](https://git.io/streak-stats)
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Davs07" alt="GitHub Streak" /></a>
+</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Davs07&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Davs07&theme=default" />
+</picture>
 
-<div align="center" display="flex">
-![](https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false)
-</div>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Davs07"/></a>
+</p>
 
   
 
