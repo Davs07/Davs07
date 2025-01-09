@@ -15,7 +15,7 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 # 💻 Tech Stack:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
+![](https://streak-stats.demolab.com/?user=Davs07&theme=dark)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -87,33 +87,25 @@ Desde mi temprana infancia, he estado fascinado por la tecnología y la creativi
 -->
 
 # 📊 GitHub Stats:
-<!--
 <div align="center" style="display: flex;">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
-</div>
--->
-<div align="center" style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats"/>
   <br/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Davs07)](https://git.io/streak-stats)
-  <br/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Davs07" alt="GitHub Streak" /></a>
 </div>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Davs07&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Davs07&theme=default" />
-</picture>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Davs07"/></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Davs07&theme=dark" alt="GitHub Streak Stats"/>
+  </a>
 </p>
 
-  
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Davs07&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ## 🎶 Spotify
 
