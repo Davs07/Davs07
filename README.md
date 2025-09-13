@@ -8,14 +8,11 @@ Sin visión, no hay dirección; sin disciplina, no hay progreso.
 **Cloud & DevOps:** AWS, Docker  
 **Tools:** Git, VS Code, Insomnia, Figma
 
-## Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
----
-
+## Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davs07&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
