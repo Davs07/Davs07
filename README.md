@@ -2,11 +2,11 @@ Sin visión, no hay dirección; sin disciplina, no hay progreso.
 
 ## Techs
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, TailwindCSS 
-**Backend:** Node.js, Express, NestJS, Python, FastAPI, Java, Spring  
-**Database:** PostgreSQL, MongoDB, MySQL, Redis, SQL Server  
-**Cloud & DevOps:** AWS, Docker  
-**Tools:** Git, VS Code, Insomnia, Figma
+- **Frontend:** JavaScript, TypeScript, React, Next.js, TailwindCSS 
+- **Backend:** Node.js, Express, NestJS, Python, FastAPI, Java, Spring  
+- **Database:** PostgreSQL, MongoDB, MySQL, Redis, SQL Server  
+- **Cloud & DevOps:** AWS, Docker  
+- **Tools:** Git, VS Code, Insomnia, Figma
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs07&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
