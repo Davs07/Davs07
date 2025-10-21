@@ -1,4 +1,4 @@
-Sin visión, no hay dirección; sin disciplina, no hay progreso.
+"No discipline, no success"
 
 ## Techs
 
